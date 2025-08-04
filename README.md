@@ -30,3 +30,6 @@ I built the To-Do List Manager by :
 5 Adding error handling using try-except blocks
 
 This approach allowed me to build a functional and user-friendly To-Do List Manager that meets the requirements
+
+# Overview
+Overall, the code meets all the specified requirements and provides a basic , persistent CLI to-do list application
